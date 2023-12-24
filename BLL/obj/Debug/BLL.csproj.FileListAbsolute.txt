@@ -1,0 +1,14 @@
+E:\RiderX\New folder\FastX-Rider\BLL\bin\Debug\BLL.dll
+E:\RiderX\New folder\FastX-Rider\BLL\bin\Debug\BLL.pdb
+E:\RiderX\New folder\FastX-Rider\BLL\bin\Debug\AutoMapper.dll
+E:\RiderX\New folder\FastX-Rider\BLL\bin\Debug\DAL.dll
+E:\RiderX\New folder\FastX-Rider\BLL\bin\Debug\EntityFramework.dll
+E:\RiderX\New folder\FastX-Rider\BLL\bin\Debug\DAL.pdb
+E:\RiderX\New folder\FastX-Rider\BLL\bin\Debug\DAL.dll.config
+E:\RiderX\New folder\FastX-Rider\BLL\bin\Debug\AutoMapper.xml
+E:\RiderX\New folder\FastX-Rider\BLL\bin\Debug\EntityFramework.xml
+E:\RiderX\New folder\FastX-Rider\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\RiderX\New folder\FastX-Rider\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\RiderX\New folder\FastX-Rider\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\RiderX\New folder\FastX-Rider\BLL\obj\Debug\BLL.dll
+E:\RiderX\New folder\FastX-Rider\BLL\obj\Debug\BLL.pdb

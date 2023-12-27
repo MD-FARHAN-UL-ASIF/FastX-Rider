@@ -15,5 +15,15 @@ namespace DAL
         {
             return new RiderRepo();
         }
+
+        public static IRepo<Package, int, bool> PackageData()
+        {
+            return new PackageRepo();
+        }
+
+        public static IRepo<DeliveryStatus, int, bool> DeliveryStatusData()
+        {
+            return new DeliveryStatusRepo();
+        }
     }
 }

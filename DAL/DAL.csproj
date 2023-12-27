@@ -54,18 +54,22 @@
     <Compile Include="Class1.cs" />
     <Compile Include="DataAccessFactory.cs" />
     <Compile Include="EF\DataContext.cs" />
+    <Compile Include="EF\Models\DeliveryStatus.cs" />
+    <Compile Include="EF\Models\Package.cs" />
     <Compile Include="EF\Models\Rider.cs" />
+    <Compile Include="Enums\Delivery_Status.cs" />
+    <Compile Include="Enums\PaymentStatus.cs" />
+    <Compile Include="Enums\PymentMethod.cs" />
+    <Compile Include="Enums\ShippingMethod.cs" />
     <Compile Include="iINTERFACES\IRepo.cs" />
-    <Compile Include="Migrations\202312201556205_initDB.cs" />
-    <Compile Include="Migrations\202312201556205_initDB.designer.cs">
-      <DependentUpon>202312201556205_initDB.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202312201559262_initDB2.cs" />
-    <Compile Include="Migrations\202312201559262_initDB2.designer.cs">
-      <DependentUpon>202312201559262_initDB2.cs</DependentUpon>
+    <Compile Include="Migrations\202312252053486_initdb.cs" />
+    <Compile Include="Migrations\202312252053486_initdb.designer.cs">
+      <DependentUpon>202312252053486_initdb.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repos\DeliveryStatusRepo.cs" />
+    <Compile Include="Repos\PackageRepo.cs" />
     <Compile Include="Repos\Repo.cs" />
     <Compile Include="Repos\RiderRepo.cs" />
   </ItemGroup>
@@ -73,13 +77,9 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202312201556205_initDB.resx">
-      <DependentUpon>202312201556205_initDB.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202312201559262_initDB2.resx">
-      <DependentUpon>202312201559262_initDB2.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202312252053486_initdb.resx">
+      <DependentUpon>202312252053486_initdb.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

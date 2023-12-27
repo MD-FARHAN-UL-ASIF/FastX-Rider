@@ -13,3 +13,17 @@ E:\RiderX\New folder\FastX-Rider\DAL\obj\Debug\DAL.pdb
 E:\RiderX\New folder\FastX-Rider\DAL\obj\Debug\DAL.Migrations.initDB.resources
 E:\RiderX\New folder\FastX-Rider\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
 E:\RiderX\New folder\FastX-Rider\DAL\obj\Debug\DAL.Migrations.initDB2.resources
+G:\codes\adv c#\Work\FastX-Rider\DAL\bin\Debug\DAL.dll.config
+G:\codes\adv c#\Work\FastX-Rider\DAL\bin\Debug\DAL.dll
+G:\codes\adv c#\Work\FastX-Rider\DAL\bin\Debug\DAL.pdb
+G:\codes\adv c#\Work\FastX-Rider\DAL\bin\Debug\EntityFramework.dll
+G:\codes\adv c#\Work\FastX-Rider\DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\codes\adv c#\Work\FastX-Rider\DAL\bin\Debug\EntityFramework.xml
+G:\codes\adv c#\Work\FastX-Rider\DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\codes\adv c#\Work\FastX-Rider\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\codes\adv c#\Work\FastX-Rider\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\codes\adv c#\Work\FastX-Rider\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\codes\adv c#\Work\FastX-Rider\DAL\obj\Debug\DAL.dll
+G:\codes\adv c#\Work\FastX-Rider\DAL\obj\Debug\DAL.pdb
+G:\codes\adv c#\Work\FastX-Rider\DAL\obj\Debug\DAL.Migrations.initdb.resources
+G:\codes\adv c#\Work\FastX-Rider\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

@@ -11,5 +11,7 @@ namespace DAL.EF
     public class DataContext : DbContext
     {
         public DbSet<Rider> Riders { get; set; }
+        public DbSet<Package> Packages { get; set; }
+        public DbSet<DeliveryStatus> DeliveryStatuses { get; set; }
     }
 }

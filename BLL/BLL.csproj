@@ -45,8 +45,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="DTOs\DeliveryStatusDTO.cs" />
+    <Compile Include="DTOs\PackageDTO.cs" />
     <Compile Include="DTOs\RiderDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\DeliveryStatusServices.cs" />
+    <Compile Include="Services\PackageServices.cs" />
     <Compile Include="Services\RiderServices.cs" />
   </ItemGroup>
   <ItemGroup>

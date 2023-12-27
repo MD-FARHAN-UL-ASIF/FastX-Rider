@@ -1,7 +1,7 @@
 ﻿using System.Web.Http;
 using System.Web.Http.Cors;
 
-namespace OUTLOOK_GMS
+namespace FastX_Rider
 {
     public static class WebApiConfig
     {

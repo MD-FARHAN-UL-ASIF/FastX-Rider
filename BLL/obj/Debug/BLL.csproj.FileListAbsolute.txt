@@ -12,3 +12,17 @@ E:\RiderX\New folder\FastX-Rider\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cach
 E:\RiderX\New folder\FastX-Rider\BLL\obj\Debug\BLL.csproj.CopyComplete
 E:\RiderX\New folder\FastX-Rider\BLL\obj\Debug\BLL.dll
 E:\RiderX\New folder\FastX-Rider\BLL\obj\Debug\BLL.pdb
+G:\codes\adv c#\Work\FastX-Rider\BLL\bin\Debug\BLL.dll
+G:\codes\adv c#\Work\FastX-Rider\BLL\bin\Debug\BLL.pdb
+G:\codes\adv c#\Work\FastX-Rider\BLL\bin\Debug\AutoMapper.dll
+G:\codes\adv c#\Work\FastX-Rider\BLL\bin\Debug\DAL.dll
+G:\codes\adv c#\Work\FastX-Rider\BLL\bin\Debug\EntityFramework.dll
+G:\codes\adv c#\Work\FastX-Rider\BLL\bin\Debug\DAL.pdb
+G:\codes\adv c#\Work\FastX-Rider\BLL\bin\Debug\DAL.dll.config
+G:\codes\adv c#\Work\FastX-Rider\BLL\bin\Debug\AutoMapper.xml
+G:\codes\adv c#\Work\FastX-Rider\BLL\bin\Debug\EntityFramework.xml
+G:\codes\adv c#\Work\FastX-Rider\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\codes\adv c#\Work\FastX-Rider\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\codes\adv c#\Work\FastX-Rider\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\codes\adv c#\Work\FastX-Rider\BLL\obj\Debug\BLL.dll
+G:\codes\adv c#\Work\FastX-Rider\BLL\obj\Debug\BLL.pdb

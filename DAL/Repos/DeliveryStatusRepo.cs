@@ -2,6 +2,7 @@
 using DAL.iINTERFACES;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Data.Entity.Migrations;
 using System.Linq;
 using System.Text;
@@ -26,12 +27,16 @@ namespace DAL.Repos
 
         public List<DeliveryStatus> Get()
         {
-            return db.DeliveryStatuses.ToList();
+            return db.DeliveryStatuses
+                .Include(p => p.Package)
+                .ToList();
         }
 
         public DeliveryStatus Get(int id)
         {
-            return db.DeliveryStatuses.Find(id);
+            return db.DeliveryStatuses
+                .Include (p => p.Package)
+                .FirstOrDefault(p => p.Id == id);
         }
 
         public bool Update(DeliveryStatus obj)

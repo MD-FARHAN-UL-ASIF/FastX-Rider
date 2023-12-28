@@ -20,9 +20,7 @@ namespace DAL.EF.Models
         [Required]
         [ForeignKey("Package")]
         public int PackageId { get; set; }
-        [Required]
-        public int LastUpdatedBy { get; set; } //user id
+        public int? LastUpdatedBy { get; set; } //user id
         public virtual Package Package { get; set; }
-        public virtual Rider Rider { get; set; }
     }
 }

@@ -27,3 +27,4 @@ G:\codes\adv c#\Work\FastX-Rider\DAL\obj\Debug\DAL.dll
 G:\codes\adv c#\Work\FastX-Rider\DAL\obj\Debug\DAL.pdb
 G:\codes\adv c#\Work\FastX-Rider\DAL\obj\Debug\DAL.Migrations.initdb.resources
 G:\codes\adv c#\Work\FastX-Rider\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+G:\codes\adv c#\Work\FastX-Rider\DAL\obj\Debug\DAL.Migrations.dbcontextUpdated.resources

@@ -66,6 +66,10 @@
     <Compile Include="Migrations\202312252053486_initdb.designer.cs">
       <DependentUpon>202312252053486_initdb.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202312281134490_dbcontextUpdated.cs" />
+    <Compile Include="Migrations\202312281134490_dbcontextUpdated.designer.cs">
+      <DependentUpon>202312281134490_dbcontextUpdated.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\DeliveryStatusRepo.cs" />
@@ -80,6 +84,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202312252053486_initdb.resx">
       <DependentUpon>202312252053486_initdb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202312281134490_dbcontextUpdated.resx">
+      <DependentUpon>202312281134490_dbcontextUpdated.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

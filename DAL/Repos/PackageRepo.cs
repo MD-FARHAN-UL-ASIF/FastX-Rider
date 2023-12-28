@@ -3,9 +3,11 @@ using DAL.iINTERFACES;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity.Migrations;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
 
 namespace DAL.Repos
 {
@@ -26,12 +28,16 @@ namespace DAL.Repos
 
         public List<Package> Get()
         {
-            return db.Packages.ToList();
+            return db.Packages
+                .Include(p => p.Rider)
+                .ToList();
         }
 
         public Package Get(int id)
         {
-            return db.Packages.Find(id);
+            return db.Packages
+                .Include(p => p.Rider)
+                .FirstOrDefault(p => p.Id == id);
         }
 
         public bool Update(Package obj)

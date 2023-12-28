@@ -1,4 +1,5 @@
-﻿using DAL.Enums;
+﻿using DAL.EF.Models;
+using DAL.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,5 +23,6 @@ namespace BLL.DTOs
         public PaymentStatus PaymentStatus { get; set; }
         public PymentMethod PymentMethod { get; set; }
         public bool? Retuned { get; set; }
+        public virtual Rider Rider { get; set; }
     }
 }

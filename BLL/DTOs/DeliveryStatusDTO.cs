@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DAL.EF.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +13,8 @@ namespace BLL.DTOs
         public DAL.Enums.Delivery_Status Status { get; set; }
         public DateTime Timestamp { get; set; }
         public int PackageId { get; set; }
-        public int DeliveryManId { get; set; }
+        //public int DeliveryManId { get; set; }
         public int LastUpdatedBy { get; set; } //user id
+        public virtual Package Package { get; set; }
     }
 }
